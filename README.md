@@ -13,7 +13,7 @@ This notebook contains a Spark application for analysing the dataset corpus-webi
 
 ## Usage
 
-1. Open the notebook 'projetc.ipynb' in Jupyter Notebook.
+1. Open the notebook 'project.ipynb' in Jupyter Notebook.
 2. Change the application name and the IP adress to the spark master you want to connect to.
 3. Make sure that you read the dataset using the correct path in the hdfs connected to your master
 
